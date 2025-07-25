@@ -1,6 +1,6 @@
 # cljs-tailwind-template
 
-A Clojure library designed to ... well, that part is up to you.
+A Clojure script template that uses Shadow-CLJS and Tailwind for styling.
 
 ## Usage
 
